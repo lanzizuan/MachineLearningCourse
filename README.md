@@ -5,7 +5,7 @@
 
 
 ## Unsupervised Learning
-* [Suicide Attempt Preidction](https://github.com/lanzizuan/machine-learning/blob/master/Suicide_Attempt_Prediction.ipynb)
+* [Suicide Attempt Prediction](https://github.com/lanzizuan/machine-learning/blob/master/Suicide_Attempt_Prediction.ipynb)
 
 
 ## More Information
