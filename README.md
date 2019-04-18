@@ -15,7 +15,7 @@ Technique used:
 
 ## Image Recognition
 * [Digits Classification](https://colab.research.google.com/drive/1i84xRM9-M2Qt6Xb4teoxppECWdfhGM5Q)
- * Goal: Identify 1-9 from handwritten images.
+  * Goal: Identify 1-9 from handwritten images.
 
 ## Recommendation Engine
 * [Yelp Business Recommendation using Surprise](https://colab.research.google.com/drive/1A7MdG5sUPduWJJpdHfeTpVbxfaLYSXrK)
