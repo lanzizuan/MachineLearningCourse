@@ -7,8 +7,8 @@
 * [Suicide Attempt Prediction](https://github.com/lanzizuan/machine-learning/blob/master/Suicide_Attempt_Prediction.ipynb)
   * Goal: Find out features correlated with suicide intention and make prediction based on survey data.
   * Technique used: 
-    * SMOTE([Synthetic Minority Oversampling Technique](https://jair.org/index.php/jair/article/view/10302))
-    * RFE([Recursive Feature Elimination](https://topepo.github.io/caret/recursive-feature-elimination.html))
+    * SMOTE ([Synthetic Minority Oversampling Technique](https://jair.org/index.php/jair/article/view/10302))
+    * RFE ([Recursive Feature Elimination](https://topepo.github.io/caret/recursive-feature-elimination.html))
     * Logistic regression
     * KNN classifier
     * Random forest
