@@ -7,15 +7,15 @@
 * [Suicide Attempt Prediction](https://github.com/lanzizuan/machine-learning/blob/master/Suicide_Attempt_Prediction.ipynb)
 Goal: Find out features correlated with suicide intention and make prediction based on survey data.
 Technique used: 
-  * SMOTE[Synthetic Minority Oversampling Technique](https://jair.org/index.php/jair/article/view/10302)
-  * RFE[Recursive Feature Elimination](https://topepo.github.io/caret/recursive-feature-elimination.html)
+  * SMOTE([Synthetic Minority Oversampling Technique](https://jair.org/index.php/jair/article/view/10302))
+  * RFE([Recursive Feature Elimination](https://topepo.github.io/caret/recursive-feature-elimination.html))
   * Logistic regression
-  -KNN classifier
-  -Random forest
+  * KNN classifier
+  * Random forest
 
 ## Image Recognition
 * [Digits Classification](https://colab.research.google.com/drive/1i84xRM9-M2Qt6Xb4teoxppECWdfhGM5Q)
-Goal: Identify 1-9 from handwritten images.
+ * Goal: Identify 1-9 from handwritten images.
 
 ## Recommendation Engine
 * [Yelp Business Recommendation using Surprise](https://colab.research.google.com/drive/1A7MdG5sUPduWJJpdHfeTpVbxfaLYSXrK)
