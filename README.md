@@ -1,4 +1,4 @@
-# Ines He - Machine Learning Projects
+# Ines He - Data Science Projects
 
 
 ![The Picture of Data Analysis](https://blog.alexa.com/wp-content/uploads/2014/11/Data-Science_FB.jpeg)
