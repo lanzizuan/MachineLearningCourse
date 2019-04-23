@@ -14,7 +14,7 @@
     * Random forest
 
 
-## Unsupervised Machine Learning - Classification
+## Unsupervised Machine Learning - Clustering
 * [World Food Facts](https://colab.research.google.com/drive/1PQPclYt6l7dG7SSmoFYTEHf0E97kAblP)
 
 
